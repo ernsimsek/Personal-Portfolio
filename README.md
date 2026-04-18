@@ -28,7 +28,7 @@ A single-page personal portfolio built with **React**, **TypeScript**, and **Vit
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ernsimsek/Personal-Portfolio.git
 cd Portfolio
 npm install
 ```

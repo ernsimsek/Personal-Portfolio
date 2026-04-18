@@ -77,26 +77,8 @@ Portfolio/
     ├── main.tsx
     ├── index.css
     ├── data/
-    │   └── site.ts          # Content and site config
     ├── hooks/
-    │   ├── useActiveSection.ts
-    │   ├── useCursor.ts
-    │   ├── useLenis.ts
-    │   └── usePrefersReducedMotion.ts
     └── components/
-        ├── About.tsx
-        ├── CommandPalette.tsx
-        ├── Contact.tsx
-        ├── CustomCursor.tsx
-        ├── Hero.tsx
-        ├── Magnetic.tsx
-        ├── Marquee.tsx
-        ├── Nav.tsx
-        ├── NoiseOverlay.tsx
-        ├── ScrambleText.tsx
-        ├── ScrollRibbon.tsx
-        ├── SkillsPanel.tsx
-        └── Work.tsx
 ```
 <img width="1901" height="1040" alt="Ekran görüntüsü 2026-04-18 233210" src="https://github.com/user-attachments/assets/5f584e1a-bfcd-46bf-9ee1-fd9f19689d21" />
 
